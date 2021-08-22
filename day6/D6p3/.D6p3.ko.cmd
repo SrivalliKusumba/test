@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day6/D6p3/D6p3.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/assignment/day6/D6p3/D6p3.ko /home/pi/device-drivers/assignment/day6/D6p3/D6p3.o /home/pi/device-drivers/assignment/day6/D6p3/D6p3.mod.o;  true
